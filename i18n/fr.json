@@ -1,0 +1,29 @@
+{
+    "labels": {
+      "subject": "Objet",
+      "body": "Corps",
+      "notes": "Notes",
+      "agentNotes": "Notes de l'Agent",
+      "suggestedAnswer": "Réponse Suggérée"
+    },
+    "buttons": {
+      "getHelp": "Demander de l'Aide",
+      "sendSuggestion": "Envoyer la Suggestion"
+    },
+    "placeholders": {
+      "addNotes": "Ajouter des notes sur cet e-mail...",
+      "provideSuggestion": "Fournir une réponse suggérée pour aider à résoudre ceci..."
+    },
+    "feedback": {
+      "helpSent": "✓ Demande d'aide envoyée avec succès !",
+      "suggestionSent": "✓ Suggestion envoyée à l'agent !",
+      "serverError": "✗ Erreur du serveur. Veuillez réessayer.",
+      "requestFailed": "✗ Échec de l'envoi de la demande. Consultez la console pour plus de détails.",
+      "emptyAnswer": "✗ Veuillez fournir une réponse suggérée"
+    },
+    "defaults": {
+      "noSubject": "Aucun objet",
+      "noBody": "Aucun corps d'e-mail",
+      "noNotes": "Aucune note de l'agent demandeur"
+    }
+  }
